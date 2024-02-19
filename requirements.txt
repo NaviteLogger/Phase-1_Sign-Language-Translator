@@ -12,7 +12,7 @@ cli-helpers==2.3.0
 click==8.1.7
 colorama==0.4.6
 configobj==5.0.8
-cryptography==41.0.6
+cryptography>=42.0.2
 >>>>>>> 0450e3ca25ad54a56bae4d20c70e4b35a085fadc
 flatbuffers==23.5.26
 gast==0.5.4
